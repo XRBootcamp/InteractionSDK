@@ -45,7 +45,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Interaction SDK Experimental is a library of modular, composable components that allows developers to implement a range of robust, standardized interactions (including grab, poke, raycast and more) for controllers and hands. Interaction SDK also includes tooling to help developers build their own hand poses.
+"Interaction SDK Experimental is a library of modular, composable components that allows developers to implement a range of robust, standardized interactions (including grab, poke, raycast and more) for controllers and hands."
+<br />
+We at XR Bootcamp made this repository so everyone, beginner and seasoned developers, can test out this new SDK by Oculus without the hassle of setting up the development enviroment yourselves. Just clone/download and hit PLAY!
 
 <!-- GETTING STARTED -->
 ## Getting Started
