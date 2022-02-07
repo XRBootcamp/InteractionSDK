@@ -61,7 +61,7 @@ The main idea of this repo, is that you can test the new Interaction SDK in the 
 
 2. Clone the repository, or just download it as a zip file. If you want to clone and start learning about source control tools, we recommend starting out with Github Desktop, which also has direct integration with Github.com. <a href="https://desktop.github.com/"><strong>Github Desktop download. »</strong></a>
 3. Open your downloaded/cloned Unity project using Unity Hub.
-
+4. Open the first demo scene of the Interactions SDK, in Assets > Oculus > Interaction > Samles > Scenes > "Basic Grab"
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -69,8 +69,8 @@ The main idea of this repo, is that you can test the new Interaction SDK in the 
 
 With this project, you can both test in the editor using an Oculus Link cable together with your Oculus Quest/Rift, or you can build an apk to install in your Quest device.
 
-If you want to build an APK, make sure you switch Unity's build settings to Android going to File > Build Settings.
-IF you want to use Link Cable, you can just plug your device, enable Link cable from within the Oculus Quest, and then press "Play" in the Unity Editor.
+1. APK Build: If you want to build an APK, make sure you switch Unity's build settings to Android going to File > Build Settings. Then, plug your Oculus Quest and hit Build!
+2. Link Cable: You can just plug your device to your computer, enable Link cable from within the Oculus Quest, and then press "Play" in the Unity Editor. This will only work in PC computers with a decent GPU.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -82,12 +82,6 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
