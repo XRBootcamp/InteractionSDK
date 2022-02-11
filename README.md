@@ -98,6 +98,7 @@ Distributed under the MIT License.
 ## Contact
 
 XR Bootcamp - www.xrbootcamp.com info@xrbootcamp.com
+Join the discussion on Discord: https://discord.gg/G8NKaDbcuV
 <br />
 Lucas Martinic - [Linkedin](https://www.linkedin.com/in/lucas-martinic/)
 
