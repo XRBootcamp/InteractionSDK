@@ -12,7 +12,7 @@
   <p align="center">
     Sample Unity Project to start using the new Interaction SDK!
     <br />
-    <a href="https://xrbootcamp.com/"><strong>Explore our bootcamps! »</strong></a>
+    <a href="https://xrbootcamp.com/"><strong>Explore XR Bootcamp Beginner and Advanced Courses! »</strong></a>
     <br />
   </p>
 </div>
@@ -97,7 +97,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-XR Bootcamp - info@xrbootcamp.com
+XR Bootcamp - www.xrbootcamp.com info@xrbootcamp.com
 <br />
 Lucas Martinic - [Linkedin](https://www.linkedin.com/in/lucas-martinic/)
 
