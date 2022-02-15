@@ -15,8 +15,9 @@
     <a href="https://xrbootcamp.com/"><strong>Explore XR Bootcamp Beginner and Advanced Courses! »</strong></a>
     <br />
   </p>
-</div>
+  <img src="https://user-images.githubusercontent.com/42948357/154160129-fdbe073b-d24a-463a-abc4-09ac6351793e.gif" alt="Gif1" width="600" height="438">
 
+</div>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -76,6 +77,9 @@ With this project, you can both test in the editor using an Oculus Link cable to
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42948357/154159611-54e9dadd-3d1a-4dcd-a1e4-a2ad7dc00779.gif" alt="Gif1" width="600" height="446">
+</div>
 
 <!-- CONTRIBUTING -->
 ## Contributing
